@@ -62,7 +62,5 @@ Outside of technical work, I enjoy:
 [TryHackMe](https:\\)
 
 ---
-
-
 - ⚡ Fun fact: ...
 -->
