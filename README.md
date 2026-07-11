@@ -18,11 +18,11 @@ My flagship work — enterprise-style network and security projects that go beyo
 
 | Repo                               | What's in it                                                                                  |
 | ---------------------------------- | --------------------------------------------------------------------------------------------- |
-| **[Cybernet Projects](https://)**  | Flagship networking + security builds, phased by complexity                                   |
-| **[TryHackMe Writeups](https://)** | Methodology-first investigation writeups — reasoning over answers, phased by room difficulty  |
+| **[Cybernet Projects](https://github.com/MasangoPortfolio/Cybernet-Projects)**  | Flagship networking & security builds, phased by complexity                                   |
+| **[TryHackMe Writeups](https://github.com/MasangoPortfolio/TryHackMe-WriteUps)** | Methodology-first investigation writeups — reasoning over answers, phased by room difficulty  |
 | **[Packet Tracer Labs](https://)** | CCNA-aligned networking labs — VLANs, routing, troubleshooting, phased by topology complexity |
-| **[Scripts](https://)**            | Python + PowerShell automation for network and security tasks                                 |
-| **[Study Library](https://)**      | Notes, cheat sheets, and a live certification tracker                                         |
+| **[Scripts](https://)**            | Python & PowerShell automation for network and security tasks                                 |
+| **[Study Library](https://github.com/MasangoPortfolio/Study-Library)**      | Notes, cheat sheets, and a live certification tracker                                         |
 
 ---
 
