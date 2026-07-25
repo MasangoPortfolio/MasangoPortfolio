@@ -2,7 +2,7 @@
 
 # Hi, I'm Emmanuel Masango 👋
 
-I'm a final-year BSc Computing(Computer Science and Information Systems) student (UNISA) building toward a career in **Security & Network Engineering** with a longer-term target of SOC analysis and cloud security (Azure).
+I'm a final-year BSc Computing(Computer Science and Information Systems) student (UNISA) building toward a career in **Security & Network Engineering** with a short-term target of SOC analysis and Azure.
 
 Based in East London, South Africa. Currently completing my degree while working through Security+ and CCNA, and building the hands-on evidence to back both up.
 
