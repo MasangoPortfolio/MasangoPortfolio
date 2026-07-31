@@ -31,7 +31,7 @@ My flagship work — enterprise-style network and security projects that go beyo
 
 - Github Foundations
 - AZ-900 — Microsoft Azure Fundamentals
-- SC-900 — Microsoft Security Fundamentals
+- SC-900 — Microsoft Security, Identity  and Compliance Fundamentals
 - Google IT Technical Support
 - CompTIA Security+ _(in progress)_
 - CCNA _(in progress)_
