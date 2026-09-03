@@ -2,26 +2,33 @@
 
 # Hi, I'm Emmanuel Masango 👋
 
-I'm a final-year BSc Computing(Computer Science and Information Systems) student (UNISA) building toward a career in **Security & Network Engineering** with a short-term target of SOC analysis and Azure.
+I'm a final-year **BSc Computing student at the University of South Africa (UNISA)** building toward a career in **cybersecurity**.
 
-Based in East London, South Africa. Currently completing my degree while working through Security+ and CCNA, and building the hands-on evidence to back both up.
+I'm particularly interested in understanding how systems work, identifying where security assumptions fail, and using hands-on testing to understand how vulnerabilities can be exploited and mitigated.
+
+I'm currently developing my skills across web application security, networking, Linux, security operations, and cloud fundamentals through certifications, practical labs, and personal projects. My goal is to build a strong technical foundation and, more importantly, demonstrate what I can actually do with it.
 
 ---
 
-## 🔎 Start here: [OWASP Juice Shop Security Assesmment](https://github.com/MasangoPortfolio/OWASP-Juice-Shop-Security-Assessment)
+## 🔎 Start Here
 
+### [OWASP Juice Shop Security Assessment](https://github.com/MasangoPortfolio/OWASP-Juice-Shop-Security-Assessment)
 
+A hands-on **web application security assessment** of OWASP Juice Shop using Burp Suite.
+
+The project documents the assessment methodology, testing process, identified vulnerabilities, evidence, impact, and remediation recommendations. It focuses on understanding vulnerabilities rather than simply identifying them.
 
 ---
 
 ## 📁 Repository Structure
 
-| Repo                               | What's in it                                                                                  |
-| ---------------------------------- | --------------------------------------------------------------------------------------------- |
-| **[OWASP Juice Shop Security Assesmment](https://github.com/MasangoPortfolio/OWASP-Juice-Shop-Security-Assessment)**  | Enter discription                                 |
-| **[Cybersec Records ](https://github.com/MasangoPortfolio/Cybersec-Records)** | Some info i would like to remember during my cybersecuirty journey  |
+| Repository                                                                                                           | What's inside                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[OWASP Juice Shop Security Assessment](https://github.com/MasangoPortfolio/OWASP-Juice-Shop-Security-Assessment)** | A structured web application security assessment covering vulnerability discovery, exploitation, analysis, evidence collection, and remediation using Burp Suite and the OWASP framework. |
+| **[Cybersec Records](https://github.com/MasangoPortfolio/Cybersec-Records)**                                         | My personal cybersecurity knowledge base containing notes, concepts, commands, techniques, and lessons learned while working through cybersecurity training and practical labs.           |
 
 ---
+
 
 ## 🎓 Certifications
 
@@ -37,8 +44,8 @@ Based in East London, South Africa. Currently completing my degree while working
 
 ## 🎯 Current Focus
 - 🧪 TryHackMe Labs
-- 🏠 Home Lab Projects
-- 🐧 Linux Administration
+- 🏠 Home Projects
+- 🐧 Linux
 - ⚡ PowerShell & Python Automation
 -
 
