@@ -14,7 +14,7 @@ I'm currently developing my skills across web application security, networking, 
 
 ### [OWASP Juice Shop Security Assessment](https://github.com/MasangoPortfolio/OWASP-Juice-Shop-Security-Assessment)
 
-A hands-on **web application security assessment** of OWASP Juice Shop using Burp Suite.
+A **web application security assessment** of OWASP Juice Shop using Burp Suite.
 
 The project documents the assessment methodology, testing process, identified vulnerabilities, evidence, impact, and remediation recommendations. It focuses on understanding vulnerabilities rather than simply identifying them.
 
